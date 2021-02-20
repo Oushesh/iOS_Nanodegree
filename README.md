@@ -2,7 +2,7 @@
 My endeavour to learn iOS development using VirtualBox on Windows and to run Xcode on VirtualBox
 Server Side swift made easy: https://www.kitura.io/docs/getting-started/installation#install-swift-for-linux
 Run Xcode ansd Swift on Ubuntu.
-https://github.com/vineetchoudhary/swiftforwindows  
+https://github.com/vineetchoudhary/swiftforwindows
 User made git to run swift for windows
 
 
@@ -13,5 +13,11 @@ https://medium.com/@anuragajwani/how-to-consume-c-code-in-swift-b4d64a04e989#:~:
 GoodRead: https://github.com/raywenderlich/swift-style-guide
           https://github.com/b3ll/SwiftyGestureRecognition
           https://learningswift.brightdigit.com/integrating-c-plus-plus-swift/
-          
+
           https://github.com/Rubikplayer/flame-fitting
+
+          iOS Scanner App
+          https://anuragajwani.medium.com/how-to-scan-payment-cards-using-vision-framework-in-ios-9ab7394f7e94
+
+          OpenCV 3 for Lane Detection on SWIFT
+          https://medium.com/onfido-tech/building-a-simple-lane-detection-ios-app-using-opencv-4f70d8a6e6bc
